@@ -1,0 +1,34 @@
+#quote-box {
+  width: 400px;
+  padding: 20px 20px;
+  margin: 20px auto;
+  text-align: center;
+  color: hotpink;
+}
+
+#text {
+  font-size: 20px;
+}
+
+#author { 
+  font: bold 1em Arial, Helvetica, sans-serif; 
+  font-size: 22px;
+}
+
+body {
+  background-color: black;
+}
+
+button {
+  
+  font-size: 16px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  font-style: italic;
+}
